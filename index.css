@@ -78,7 +78,7 @@
 
 
 .flex-container{
-    width: 97vw;
+    width: 95%;
     height: auto;
     display: flex;
     margin: 3px;
@@ -112,7 +112,7 @@
 
 
 .flex-container2{
-    width: 97vw;
+    width: 95%;
     height: auto;
     display: flex;
     margin: 3px;
