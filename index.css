@@ -276,3 +276,11 @@
     gap: 100px;
 }
 
+@media screen  and (max-width:600px){
+    .card{
+        justify-content: center;
+        align-content: center;
+        margin-left: 50px;
+       
+    }
+}
