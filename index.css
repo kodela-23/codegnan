@@ -59,8 +59,8 @@
 
 @media screen  and (max-width:700px){
     .img{
-        width:450px;
-        height: 500px;
+        width:350px;
+        height: 400px;
     }
 }
 .start3{
@@ -90,7 +90,7 @@
 }
 @media screen  and (max-width:150px){
     .flex-container{
-        width:4200px;
+        width:420px;
     }
 }
 
@@ -106,7 +106,7 @@
 }
 @media screen  and (max-width:300px){
     .flex-box{
-        width:40%;
+        width:35%;
     }
 }
 
@@ -138,7 +138,7 @@
 
 @media screen  and (max-width:300px){
     .flex-box2{
-        width:40%;
+        width:35%;
     }
 }
 
@@ -177,7 +177,7 @@
 
 @media screen  and (max-width:300px){
     .flex-box3{
-        width:40%;
+        width:35%;
     }
 }
 
